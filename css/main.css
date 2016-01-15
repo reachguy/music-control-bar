@@ -74,13 +74,13 @@ body {
   They’re just there to colour the progress bar
 */
 
-/*.time-bar::-moz-progress-bar {
+.time-bar::-moz-progress-bar {
   background-color: #666;
 }
 
 .time-bar::-webkit-progress-value {
   background-color: #666;
-}*/
+}
 
 /* END DON’T TOUCH ZONE */
 
